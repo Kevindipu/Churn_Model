@@ -1,5 +1,6 @@
 .venv/
-data/
+data/*.csv
 models/
 __pycache__/
 *.pyc
+.dvc/
