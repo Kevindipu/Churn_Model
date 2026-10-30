@@ -1,7 +1,7 @@
 [project]
 name = "churn-model"
 version = "0.1.0"
-description = "Add your description here"
+description = "MLOps project for customer churn prediction"
 readme = "README.md"
 authors = [
     { name = "Kevindipu", email = "kevindipu17@gmail.com" }
