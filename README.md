@@ -2,6 +2,15 @@
 
 A learning-focused portfolio project that demonstrates how to build, evaluate, and serve a machine learning model for customer churn prediction. The project follows a practical MLOps workflow: synthetic data generation, model training, model artifact persistence, and inference through either a FastAPI service or KServe on Kubernetes.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-0F6FDE)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
+
 ## Overview
 
 Customer churn is a common business problem where companies want to predict which customers are likely to leave. In this project, a Random Forest classifier is trained to estimate churn risk using a small set of customer behavior and billing features.
